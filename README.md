@@ -10,3 +10,5 @@ This exploit works even on virtual machines and with write protection on! But on
 Language: C# .net framework 4.8 and assembly
 
 Sources: https://mikeos.sourceforge.net/ (modified bootloader that is then overwriten to the MBR) and https://github.com/MalwareStudio/MBR_OVERWRITER_SOURCE_CODE for the C# MBR overwriter (By cyber soldier/clutter)
+
+-zbezz :D
